@@ -1,89 +1,90 @@
-<h1 align="center">✨ Hey 👋 I'm Anish ✨</h1>
-<h3 align="center">⚡ Code. Create. Conquer. ⚡</h3>
+<h1 align="center">🧙‍♂️ CodeWizard Anish ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Arcane+System...;Summoning+Code+From+The+Void...;Full+Stack+Sorcerer;Master+of+JavaScript+Spells;React+Alchemy+⚛️;Node.js+Necromancer;Anime+Powered+Developer+🔥" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧾 Wizard Identity
 
-- 🚀 Full Stack Developer
-- 💻 Love building cool & impactful stuff
-- 🌱 Always learning something new
-- 🎮 Anime + Tech = ❤️
-
----
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,react,java,js,nodejs,ts" />
-
-</div>
+```diff
++ 🧠 Name: Anish (CodeWizard)
++ 🧙 Class: Full Stack Developer
++ ⚡ Languages: C++ | Python | Java | JavaScript | TypeScript
++ ⚛️ Frameworks: React | Node.js
++ 🌌 Alignment: Cyberpunk Hacker
++ 🔥 Status: Grinding XP Daily
+```
 
 ---
 
-## 🔥 GitHub Power Level
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" height="150"/>
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🔮 Spell Arsenal (Tech Stack)
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs&theme=dark" />
 </p>
 
 ---
 
-## 🎌 Anime Energy Mode
+## ⚡ Power Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWizard-Anish&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWizard-Anish&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=86400" height="160"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧪 Code Elements (Language Alchemy Fixed)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard-Anish&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&cache_seconds=86400" height="160"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ "Stay consistent. Stay unstoppable." ⚡</h3>
+## 🧠 Neural Interface (Hacker Core)
 
-<!--
-**CodeWizard-Anish/CodeWizard-Anish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQGg3y5y7K/giphy.gif" width="420"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚔️ Battle Mode (Anime Energy)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260"/>
+</p>
+
+---
+
+## 🐍 Summoned Familiar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Digital Portal
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
+
+---
+
+## ⚡ System Status
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWizard-Anish&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">⚡ "Reality is code. I rewrite it." ⚡</h3>
