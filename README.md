@@ -72,7 +72,7 @@
 ## 🌐 Digital Portal
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/anish-raj-632096315/"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </p>
