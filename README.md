@@ -1,83 +1,189 @@
-<h1 align="center">🧙‍♂️ CodeWizard Anish ⚡</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Arcane+System...;Summoning+Code+From+The+Void...;Full+Stack+Sorcerer;Master+of+JavaScript+Spells;React+Alchemy+⚛️;Node.js+Necromancer;Anime+Powered+Developer+🔥" />
+# Hi 👋, I'm Anish Raj
+
+### 🚀 MERN Stack Developer | Computer Science Student | Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Learning+Something+New+Every+Day;MERN+Stack+Developer;DSA+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Full-Stack Development and Software Engineering
+
+🌱 Currently learning:
+
+* Advanced MERN Stack
+* Data Structures & Algorithms
+* Backend Development
+* System Design Fundamentals
+
+🎯 Current Goals:
+
+* Secure a Software Engineering Internship
+* Build impactful real-world projects
+* Strengthen problem-solving skills
+* Contribute to Open Source
+
+⚡ Fun Fact:
+
+> I believe consistency beats motivation. Small daily improvements create extraordinary results.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🧾 Wizard Identity
+## 🚀 Featured Projects
 
-```diff
-+ 🧠 Name: Anish (CodeWizard)
-+ 🧙 Class: Full Stack Developer
-+ ⚡ Languages: C++ | Python | Java | JavaScript | TypeScript
-+ ⚛️ Frameworks: React | Node.js
-+ 🌌 Alignment: Cyberpunk Hacker
-+ 🔥 Status: Grinding XP Daily
+### 📱 CodeDrop QR Share
+
+A VS Code extension that enables seamless file sharing between devices using QR codes, simplifying file transfers for developers.
+
+**Tech:** TypeScript, VS Code API
+
+---
+
+### ⚙️ CodeDrop Server
+
+Backend infrastructure powering the CodeDrop ecosystem, responsible for communication, file management, and transfer handling.
+
+**Tech:** Node.js, Express.js, MongoDB
+
+---
+
+### 🧩 Puzzle Grove
+
+Interactive puzzle-solving platform built to improve logical thinking and problem-solving through engaging challenges.
+
+**Tech:** MERN Stack
+
+---
+
+### ⚒️ CodeForge
+
+A full-stack web application demonstrating scalable architecture, modern development practices, and responsive design.
+
+**Tech:** MERN Stack
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, technical skills, and growth as a developer.
+
+**Tech:** React, JavaScript, HTML, CSS
+
+---
+
+## 📚 Currently Exploring
+
+* Data Structures & Algorithms
+* Backend Engineering
+* REST APIs
+* Authentication & Security
+* System Design
+* Open Source Development
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWizard-Anish&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard-Anish&layout=compact&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWizard-Anish&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Developer Mindset
+
+```text
+while(!success) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
 ```
 
 ---
 
-## 🔮 Spell Arsenal (Tech Stack)
+## 🎯 2026 Roadmap
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs&theme=dark" />
+* [ ] Build 3 Production-Ready MERN Projects
+* [ ] Solve 500+ DSA Problems
+* [ ] Contribute to Open Source
+* [ ] Secure a Software Engineering Internship
+* [ ] Learn System Design Fundamentals
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/CodeWizard-Anish">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/anish-raj-632096315/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
 </p>
 
 ---
 
-## ⚡ Power Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWizard-Anish&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWizard-Anish&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=86400" height="160"/>
-</p>
+### ⭐ Thanks for visiting my profile!
 
----
+*"Code. Learn. Build. Repeat."*
 
-## 🧪 Code Elements (Language Alchemy Fixed)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard-Anish&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&cache_seconds=86400" height="160"/>
-</p>
-
----
-
-
-## ⚔️ Battle Mode (Anime Energy)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260"/>
-</p>
-
----
-
-## 🐍 Summoned Familiar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌐 Digital Portal
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anish-raj-632096315/"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-</p>
-
----
-
-## ⚡ System Status
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWizard-Anish&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">⚡ "Reality is code. I rewrite it." ⚡</h3>
+</div>
