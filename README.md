@@ -125,13 +125,7 @@ Personal portfolio showcasing projects, technical skills, and growth as a develo
 
 ## 📈 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWizard-Anish&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard-Anish&layout=compact&theme=tokyonight" />
-
-</div>
 
 <div align="center">
 
